@@ -1,4 +1,4 @@
-bizvis-front
+bizvis-front(프로젝트 중지)
 =============
   사업 프로세스 시각화 프로젝트의 웹 Front-End 레퍼지토리임
 
